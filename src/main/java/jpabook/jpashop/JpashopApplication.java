@@ -7,9 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class JpashopApplication {
 
 	public static void main(String[] args) {
-		System.out.println("123123");
-
-
 		SpringApplication.run(JpashopApplication.class, args);
 
 	}
